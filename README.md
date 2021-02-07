@@ -1,2 +1,2 @@
-# Progama em Python
- Nesse Repositório, Coloco uns programa e ideias feitas com a linguagem Pyhon
+# Programa em Python
+Algumas idéias e Teste de Programas usando a linguagem python.
